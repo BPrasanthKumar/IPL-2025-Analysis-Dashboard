@@ -72,8 +72,8 @@ This project provides a comprehensive analysis of the IPL 2025 season using inte
 
 **B Prasanth Kumar**
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- GitHub: https://github.com/your-github
+- LinkedIn: https:https://linkedin.com/in/b-prasanth-kumar
+- GitHub: https:https://github.com/BPrasanthKumar
 
 ---
 
